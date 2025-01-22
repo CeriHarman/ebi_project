@@ -6,5 +6,6 @@ Files to merge indelible and pyvolve functions to provided simulated data with d
 - site.py, second file made, indelible, pyvolve, sites extracted from indelible dna_RATES
 - sites_added.py, third file made, indelible, pyvolve, and sites then added to pyvolve simulations
 
-- working on merging the three pyvolve simulations
-- reflecting the indel patterns from indelible onto this merged fasta
+- merge_test.py = merges the pyvolve simualtions and applies the indel patterns from indelible dna_TRUE.
+
+- need to sort out hard coded paths, tools, trees and scalability . plus where it fits in daniades
